@@ -13,6 +13,19 @@ I might be slow to respond until 17th May (JEE Advanced).
   />
   <img src="https://readme-stats.kavish.xyz/api?username=kavishdevar&show_icons=true" />
 </picture>
+<br>
+<picture>
+  <source
+    srcset="https://readme-stats.kavish.xyz/api/wakatime?username=kavish&api_domain=hackatime.hackclub.com&langs_count=5&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-stats.kavish.xyz/api/wakatime?username=kavish&api_domain=hackatime.hackclub.com&langs_count=5&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://readme-stats.kavish.xyz/api/wakatime?username=kavish&api_domain=hackatime.hackclub.com&langs_count=5&show_icons=true" />
+</picture>
+
 
 Contact:
 - me@kavish.xyz
