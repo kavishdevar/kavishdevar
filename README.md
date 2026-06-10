@@ -29,7 +29,6 @@ I might be slow to respond until 17th May (JEE Advanced).
 
 Contact:
 - me@kavish.xyz
-- [@kavish:kavish.xyz](https://matrix.to/#/@kavish:kavish.xyz)
 
 <!--
 **kavishdevar/kavishdevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
